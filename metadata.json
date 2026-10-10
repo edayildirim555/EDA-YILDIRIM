@@ -1,0 +1,7 @@
+{
+  "name": "Interview & Career Coach AI",
+  "description": "Kişiselleştirilmiş mülakat simülatörü ve katılımcı ünvanına özel soru üretici ile eğitim içeriklerine dayalı kariyer gelişim danışmanı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
